@@ -1,0 +1,13 @@
+spring:
+  security:
+    user:
+      roles: user
+      name: test
+      password: test
+
+server:
+  port: 9002
+
+eureka:
+  instance:
+    hostname: eureka-server1-test
