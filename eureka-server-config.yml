@@ -17,4 +17,9 @@ spring:
   profiles:
     active: product
 
-
+user:
+  config:
+    name: 叶问
+    password: 哈哈哈
+    description: 这是更改之前的
+    
