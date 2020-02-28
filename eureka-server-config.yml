@@ -19,7 +19,7 @@ spring:
 
 user:
   config:
-    name: 叶问
-    password: 哈哈哈
-    description: 这是更改之前的
+    name: 张三丰
+    password: 张无忌
+    description: 这是更改以后的啦
     
